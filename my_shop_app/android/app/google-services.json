@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "461394362445",
+    "firebase_url": "https://shopy-f4b81-default-rtdb.firebaseio.com",
+    "project_id": "shopy-f4b81",
+    "storage_bucket": "shopy-f4b81.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461394362445:android:ec4a870435cfa912ed5c04",
+        "android_client_info": {
+          "package_name": "com.example.my_shop_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "461394362445-nntt1u4go6g9l3na7g2f318fs7ngpcj8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8O82d9IUCXOhJJBECEGsEq7B4SwSSbHo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "461394362445-nntt1u4go6g9l3na7g2f318fs7ngpcj8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
